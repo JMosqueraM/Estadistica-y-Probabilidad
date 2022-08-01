@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7aaf5c194e6ecc66",
+        "id": "2ee41e026f21c52f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Segunda Clase 29-07-2022.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segunda Clase 29-07-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segunda Clase 29-07-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Segunda Clase 29-07-2022.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,10 +121,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7aaf5c194e6ecc66",
+  "active": "2ee41e026f21c52f",
   "lastOpenFiles": [
-    "Mutuamente Excluyente.md",
+    "Tercera Clase01-08-2022.md",
+    "Tecnicas de Conteo.md",
     "Segunda Clase 29-07-2022.md",
+    "Mutuamente Excluyente.md",
     "Primera Clase 27-07-2022.md",
     "Pasted image 20220727094834.png"
   ]
