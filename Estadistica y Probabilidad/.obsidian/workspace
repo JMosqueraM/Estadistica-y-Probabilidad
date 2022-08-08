@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tercera Clase01-08-2022.md",
+            "file": "Caracterizacion del espacio muestral.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tercera Clase01-08-2022.md",
+                "file": "Caracterizacion del espacio muestral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tercera Clase01-08-2022.md",
+                "file": "Caracterizacion del espacio muestral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tercera Clase01-08-2022.md"
+                "file": "Caracterizacion del espacio muestral.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "4af039a357185ba4",
   "lastOpenFiles": [
-    "Terminos/Probabilidad.md",
+    "Quinta Clase 08-08-2022.md",
+    "Tercera Clase 01-08-2022.md",
     "Problemas.md",
+    "Caracterizacion del espacio muestral.md",
+    "Terminos/Probabilidad.md",
     "Terminos/Mutuamente Excluyente.md",
     "Imagenes/Pasted image 20220803095314.png",
     "Imagenes/Pasted image 20220803095236.png",
     "Imagenes/Pasted image 20220803091908.png",
-    "Imagenes/Pasted image 20220801094015.png",
-    "Imagenes/Pasted image 20220801092046.png",
-    "Tercera Clase01-08-2022.md",
-    "Tecnicas de Conteo.md"
+    "Imagenes/Pasted image 20220801094015.png"
   ]
 }
