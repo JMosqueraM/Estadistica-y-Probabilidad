@@ -14,4 +14,4 @@ Un embarque de 20 computadoras portatiles similares para una tienda minorista co
 #### Ejercicio 2
 Si una agencia automotriz vende 50% de su inventario de cierto vehiculo extranjero equipado con bolsas de aire laterales, calcule una formula para la distribucion de probabilidad del numero de automobiles con bolsas de aire laterales entre los siguientes 4 vehiculos que venda la agencia.
 
-### [[Distribuciones Continuas de Proabilidad]]
+### [[Distribuciones Continuas de Probabilidad]]

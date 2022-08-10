@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4af039a357185ba4",
+        "id": "8c5d46b1be03a150",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quinta Clase 08-08-2022.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "19879e45fc4281eb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Distribuciones Continuas de Proabilidad.md",
+            "file": "Sexta Clase 10-08-2022.md",
             "mode": "source",
             "source": false
           }
@@ -73,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4b095afb3c494b35",
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuciones Continuas de Proabilidad.md",
+                "file": "Sexta Clase 10-08-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribuciones Continuas de Proabilidad.md",
+                "file": "Sexta Clase 10-08-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribuciones Continuas de Proabilidad.md"
+                "file": "Sexta Clase 10-08-2022.md"
               }
             }
           }
@@ -141,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19879e45fc4281eb",
+  "active": "8c5d46b1be03a150",
   "lastOpenFiles": [
-    "Quinta Clase 08-08-2022.md",
     "Distribuciones de Probabilidades Discretas.md",
+    "Distribuciones Continuas de Probabilidad.md",
+    "Distribucion Acumulativa.md",
+    "Quinta Clase 08-08-2022.md",
     "Caracterizacion del espacio muestral.md",
     "Problemas.md",
     "Imagenes/Pasted image 20220808094855.png",
     "Untitled.md",
     "Tercera Clase 01-08-2022.md",
-    "Terminos/Probabilidad.md",
-    "Terminos/Mutuamente Excluyente.md",
-    "Imagenes/Pasted image 20220803095314.png"
+    "Terminos/Probabilidad.md"
   ]
 }
