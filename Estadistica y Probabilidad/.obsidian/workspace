@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Distribucion Gamma.md",
+            "file": "Distribuciones de Probabilidad Conjunta.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribucion Gamma.md",
+                "file": "Distribuciones de Probabilidad Conjunta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribucion Gamma.md",
+                "file": "Distribuciones de Probabilidad Conjunta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribucion Gamma.md"
+                "file": "Distribuciones de Probabilidad Conjunta.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "b70ceb287e7bdacb",
   "lastOpenFiles": [
+    "Imagenes/Pasted image 20220907092436.png",
+    "Distribuciones de Probabilidad Conjunta.md",
+    "Prueba de Chi Cuadrado.md",
+    "Tabla Chi Cuadrado.md",
+    "Distribucion Gamma.md",
     "Sexta Clase 10-08-2022.md",
     "Distribuciones de Probabilidades Discretas.md",
     "Distribuciones Continuas de Probabilidad.md",
     "Distribucion Acumulativa.md",
-    "Quinta Clase 08-08-2022.md",
-    "Caracterizacion del espacio muestral.md",
-    "Problemas.md",
-    "Imagenes/Pasted image 20220808094855.png",
-    "Untitled.md",
-    "Tercera Clase 01-08-2022.md"
+    "Quinta Clase 08-08-2022.md"
   ]
 }
