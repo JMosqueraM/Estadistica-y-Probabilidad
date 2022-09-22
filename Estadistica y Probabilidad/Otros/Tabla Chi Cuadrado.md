@@ -1,0 +1,1 @@
+![[Tabla Chi Cuadrado.pdf]]

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b70ceb287e7bdacb",
+        "id": "abbe22c263af11ed",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Distribuciones de Probabilidad Conjunta.md",
+            "file": "Varianza de Variable Aleatoria.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: Distribucion de probabilidad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribuciones de Probabilidad Conjunta.md",
+                "file": "Varianza de Variable Aleatoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribuciones de Probabilidad Conjunta.md",
+                "file": "Varianza de Variable Aleatoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribuciones de Probabilidad Conjunta.md"
+                "file": "Varianza de Variable Aleatoria.md"
               }
             }
           }
@@ -129,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b70ceb287e7bdacb",
+  "active": "abbe22c263af11ed",
   "lastOpenFiles": [
-    "Imagenes/Pasted image 20220907092436.png",
-    "Distribuciones de Probabilidad Conjunta.md",
-    "Prueba de Chi Cuadrado.md",
-    "Tabla Chi Cuadrado.md",
-    "Distribucion Gamma.md",
-    "Sexta Clase 10-08-2022.md",
-    "Distribuciones de Probabilidades Discretas.md",
-    "Distribuciones Continuas de Probabilidad.md",
-    "Distribucion Acumulativa.md",
-    "Quinta Clase 08-08-2022.md"
+    "Terminos/Distribuciones Continuas de Probabilidad.md",
+    "Varianza de Variable Aleatoria.md",
+    "Teorema del Limite Central.md",
+    "Temas Parcial.md",
+    "Inferencia Estadistica.md",
+    "Media de Variable Aleatoria.md",
+    "Terminos/Distribuciones de Probabilidad Conjunta.md",
+    "Terminos/Funcion de Probabilidad.md",
+    "Terminos/Variable Aleatoria Discreta.md",
+    "Terminos/Variable Aleatoria.md"
   ]
 }
